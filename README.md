@@ -57,7 +57,15 @@ This project aims to predict customer churn for a telecom company using machine 
 | ROC-AUC             | 0.84                | 0.81          | *0.808*        |
 
 ---
+**Why did the Transformer model underperform?**
 
+- Transformers need large datasets to work well; our churn dataset is relatively small.
+- Tabular data has simple structure and less complex feature interactions, which traditional models handle better.
+- Transformers are prone to overfitting on small, structured datasets like this.
+
+*Traditional models like Logistic Regression and Random Forest are more suitable for this type of data.*
+
+---
 ## Summary
 
 - The Logistic Regression model performed best overall, especially in identifying customers who churn (higher recall and ROC-AUC).
