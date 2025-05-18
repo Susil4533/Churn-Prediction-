@@ -94,7 +94,15 @@ The ability to predict churn provides the company with critical insights into wh
 - **Explore ensemble methods** combining strengths of multiple models for better accuracy and robustness.
 
 ---
+## Accessing Notebooks and Models
 
+This project uses multiple branches for different models. You can view the code and notebooks directly by clicking the links below:
+
+- [Transformer Model Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/transformer/model/transformer_notebook.ipynb)
+- [Random Forest Model Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/RandomForest/model/randomforest_notebook.ipynb)
+- [Logistic Regression Model Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/RegModel/model/logistic_regression_notebook.ipynb)
+
+---
 ## How to Run
 
 1. Clone the repository.
