@@ -98,9 +98,10 @@ The ability to predict churn provides the company with critical insights into wh
 
 This project uses multiple branches for different models. You can view the code and notebooks directly by clicking the links below:
 
-- [Transformer Model Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/transformer/model/transformer_notebook.ipynb)
-- [Random Forest Model Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/RandomForest/model/randomforest_notebook.ipynb)
-- [Logistic Regression Model Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/RegModel/model/logistic_regression_notebook.ipynb)
+- [Data Cleaning Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/transformer/notebook/data_loading.ipynb)
+- [Transformer Model Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/transformer/model/transformer.ipynb)
+- [Random Forest Model Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/transformer/model/randomforest.ipynb)
+- [Logistic Regression Model Notebook](https://github.com/Susil4533/Churn-Prediction-/blob/transformer/model/transformer.ipynb)
 
 ---
 ## How to Run
